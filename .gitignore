@@ -1,0 +1,6 @@
+venv/
+dataset/
+features.pkl
+*.h5
+*.pkl
+__pycache__/
